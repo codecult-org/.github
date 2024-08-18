@@ -1,2 +1,2 @@
-group projects x2
+group projects x2 <br/>
 freelance x3
